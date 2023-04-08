@@ -1,6 +1,6 @@
 ﻿namespace Task_1.Entities.Interfaces
 {
-    internal interface ICat
+    public interface ICat
     {
         void Eat(string food);
     }
